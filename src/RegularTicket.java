@@ -19,4 +19,4 @@ class RegularTicket extends Ticket {
         return "RegularTicket: " + movieTitle + ", Seat: " + seatNumber + ", Price: $" + getPrice();
     }
 }
-// TEST REGULARTICKET.CLASS IN MAIN
+
